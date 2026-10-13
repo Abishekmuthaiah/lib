@@ -176,4 +176,5 @@ java -cp "bin;lib/*" com.evoriea.dlms.test.DLMSTestSuite
 Verifies Singleton DB connection, schema creation, borrowing quotas, atomic rollback, overdue fine math, and Slide 11 analytics integrity.
 #   l i b  
  #   l i b  
+ #   l i b  
  
